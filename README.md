@@ -69,4 +69,4 @@ The unit tests for this project are in test_module.py.
 Development
 Write your code in shape_calculator.py. For development, you can use main.py to test your shape_calculator() function. Click the "run" button and main.py will run.
 
-Challenge Doing.
+Challenge Accepted.
